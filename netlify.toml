@@ -1,8 +1,8 @@
 [build]
-  publish = "public"
+  publish = "Public"
 
 [functions]
-  directory = "netlify/functions"
+  directory = "Netlify/Functions"
   node_bundler = "esbuild"
 
 [[redirects]]
